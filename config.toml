@@ -1,4 +1,4 @@
-baseURL = "zainiya.github.io"
+baseURL = "zainiya.github.io/"
 languageCode = "en-us"
 title = "Zainiya Manjiyani Portfolio"
 theme = "hugo-lodi-theme"
