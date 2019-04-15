@@ -1,0 +1,8 @@
+[submodule "public."]
+	path = public.
+	url = git@github.com:zainiya/zainiya.github.io
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:zainiya/zainiya.github.io
+	branch = master
