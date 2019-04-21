@@ -34,12 +34,12 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     resume = "ResumeManjiyani.pdf"
 
 [params.process]
-    enable = true
+    enable = false
     title = "My Process"
     subtitle = "Full Process Design"
 
 [params.projects]
-    enable = true
+    enable = false
     title = "Project Work"
     subtitle = "Selected Works"
 
