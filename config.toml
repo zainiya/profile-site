@@ -46,7 +46,36 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params.achievement]
     enable = true
     title = "Achievements"
-    
+    academic = [
+    "**Excellence Award** from Educational Committee <span class='badge'>2017" , 
+    "Final Year Project have been shortlisted among top 10 innovative projects for **''Dewang Mehta IT Award 2015''** <span class='badge'>2015</span>" , 
+    "3<sup>rd</sup> position in 8<sup>th</sup> semester of Bachelor's Degree<span class='badge'>2015</span>" , 
+    "Successfully developed **''C-Quest'' software** for VisveSmruti 2K14 (Techfest of FETR, Bardoli) <span class='badge'>2014</span>" , 
+    "Given seminar on **''Real Time Tracking of Multiple Fingertips and Gesture Recognition for Augmented Desk Interface System''** <span class='badge'>2014</span>" , 
+    "Participated in **''Robo Race''** held at Ayam <span class='badge'>2013</span>" , 
+    "Completed **Wireless Sensor Network** workshop <span class='badge'>2014 </span>" , 
+    "Completed **Cloud Computing** workshop <span class='badge'>2014</span>" , 
+    "3<sup>rd</sup> position in 3<sup>rd</sup> semester of Bachelor's degree <span class='badge'>2013</span>" , 
+    "3<sup>rd</sup> position in **Code Spring** held at Ayam <span class='badge'>2013</span>" , 
+    "Certified **Ethical Hacking Expert(Level 1)** <span class='badge'>2011</span>" , 
+    "1<sup>st</sup> position in class and 8<sup>th</sup> State Rank in **''International Olympiad of Mathematics''** <span class='badge'>2009</span>"
+    ]
+    extra = [
+    "Winner of **Table Tennis Tournament** <span class='badge'>2015</span>" , 
+    "Created video for VisveSmruti 2k14 <span class='badge'>2014</span>",
+    "Completed **Master Ismaili Scouter Guider Training** Course <span class='badge'>2013</span>" , 
+    "Winner of **Table Tennis Tournament** <span class='badge'>2013</span>" , 
+    "Winner of **Tug of War** <span class='badge'>2012</span>" , 
+    "Runners up in **CHESS tournament**<span class='badge'>2012</span>" , 
+    "2<sup>nd</sup> position in **Folk Dance of GTU ''XITIJ-2011''** <span class='badge'>2011</span>" , 
+    "Participated in Poster presentation <span class='badge'>2011</span>" , 
+    "2<sup>nd</sup> position in **''Math Quiz''** competition <span class='badge'>2010</span>" , 
+    "Participated in **''Sudoku inter school''** competition <span class='badge'>2010</span>" , 
+    "Winner of **Three Legged Race**<span class='badge'> 2009 </span>" , 
+    "Cleared  **National Cadet Corps** certificate ‘A’ Examination with CDT Rank with B grade <span class='badge'> 2008</span>" , 
+    "3<sup>rd</sup> position in **Badminton Tournament** <span class='badge'>2007</span>" , 
+    "1<sup>st</sup> position in **Drawing Competition** <span class='badge'> 2007 </span>"
+    ]
 
 [params.footer]
     enable = true
