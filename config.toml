@@ -39,7 +39,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     subtitle = "Full UI/UX Design Process"
 
 [params.projects]
-    enable = true
+    enable = false
     title = "Project Work"
     subtitle = "Selected Works"
 
