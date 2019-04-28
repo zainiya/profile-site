@@ -19,8 +19,6 @@ draft: false
 
 As per the survey conducted by Centers for Disease Control and Prevention more than 60% people in United states haven’t received influenza (flu) vaccination. People don’t go for vaccination until they hear many victims for flu. This is true for other contagious diseases as well. 
 
-
-
 ![](//localhost:1313/cope/img/statsUS.png)
 
 In many areas people are not aware of which contagious diseases people are suffering from in their neighborhood.
